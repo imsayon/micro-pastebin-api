@@ -1,4 +1,3 @@
-// PasteDb.cs
 using Microsoft.EntityFrameworkCore;
 
 public class PasteDb : DbContext
