@@ -1,4 +1,3 @@
-// Paste.cs
 using System.ComponentModel.DataAnnotations;
 
 public class Paste

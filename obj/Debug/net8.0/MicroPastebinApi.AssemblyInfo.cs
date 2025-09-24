@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroPastebinApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c39ade078e03207a09b89bc59543e75d89c4893")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroPastebinApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroPastebinApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

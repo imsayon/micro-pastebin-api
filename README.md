@@ -1,10 +1,10 @@
-# Micro-Pastebin API 📋
+# Micro-Pastebin API
 
 A simple, robust, and high-performance backend API service for creating and retrieving text snippets, inspired by Pastebin.com. This project was built to demonstrate a full backend development lifecycle, from API design to containerization and deployment.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Persistent Storage:** Uses PostgreSQL to permanently store data.
 - **High-Speed Caching:** Implements a Redis caching layer to dramatically improve performance for frequently read data.
@@ -13,7 +13,7 @@ A simple, robust, and high-performance backend API service for creating and retr
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend Framework:** C# on .NET 8 (using ASP.NET Core Minimal APIs)
 - **Primary Database:** PostgreSQL
@@ -25,7 +25,7 @@ A simple, robust, and high-performance backend API service for creating and retr
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Using the .NET SDK (Locally)
 

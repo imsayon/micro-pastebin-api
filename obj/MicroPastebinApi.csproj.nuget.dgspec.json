@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2. Coding\\Languages\\Csharp\\MicroPastebinApi\\MicroPastebinApi.csproj": {}
+    "D:\\2. Coding\\Backend\\MicroPastebinApi\\MicroPastebinApi.csproj": {}
   },
   "projects": {
-    "D:\\2. Coding\\Languages\\Csharp\\MicroPastebinApi\\MicroPastebinApi.csproj": {
+    "D:\\2. Coding\\Backend\\MicroPastebinApi\\MicroPastebinApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2. Coding\\Languages\\Csharp\\MicroPastebinApi\\MicroPastebinApi.csproj",
+        "projectUniqueName": "D:\\2. Coding\\Backend\\MicroPastebinApi\\MicroPastebinApi.csproj",
         "projectName": "MicroPastebinApi",
-        "projectPath": "D:\\2. Coding\\Languages\\Csharp\\MicroPastebinApi\\MicroPastebinApi.csproj",
+        "projectPath": "D:\\2. Coding\\Backend\\MicroPastebinApi\\MicroPastebinApi.csproj",
         "packagesPath": "C:\\Users\\Sayon Mondal\\.nuget\\packages\\",
-        "outputPath": "D:\\2. Coding\\Languages\\Csharp\\MicroPastebinApi\\obj\\",
+        "outputPath": "D:\\2. Coding\\Backend\\MicroPastebinApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sayon Mondal\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -45,17 +45,17 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.20, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.9, )"
+              "version": "[8.0.7, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.0.4, )"
             },
             "StackExchange.Redis": {
               "target": "Package",
@@ -63,7 +63,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.6.2, )"
+              "version": "[6.4.0, )"
             }
           },
           "imports": [
